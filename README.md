@@ -1,9 +1,13 @@
 # Gender-Classification-using-Word2Vec
 Predicting the gender based on reviews of a hotel whether it is written by female or male.
 
+# Number of files
+![example workflow](https://img.shields.io/github/directory-file-count/Kavyamagapu/Gender-Classification-using-Word2Vec?color=gree&style=plastic)
 ## Data
 Female and Male reviews of a hotel which are in female.txt and male.txt.
 
+## Language and Libraries
+![Language](https://img.shields.io/badge/-Python-blue) ![Language](https://img.shields.io/badge/-Numpy-yellow) ![Language](https://img.shields.io/badge/-Pandas-orange) ![Language](https://img.shields.io/badge/-gensim-green) ![Language](https://img.shields.io/badge/-sklearn-darkgreen) 
 ## Preprocessing
 Used Lemmetization for finding the root word and removed all the stopwords for clean corpus.
 
