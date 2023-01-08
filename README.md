@@ -11,3 +11,5 @@ Used Word2vec technique for generating the word emmbeddings from the data.
 ## Classification
 Used some classifiers for classification and predicting 
 the new reviews.
+## Results 
+Accuracy and all other evaluation metrics results are stored in seperate file named CSResults.txt
